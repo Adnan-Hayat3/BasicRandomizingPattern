@@ -7,3 +7,5 @@ It is a pattern I made in C++, which was a part of my final exam of Programming 
 4. If an element has 2 or 5 alive neighbours, there is no change in the element. 
 
 Run it on a C++ complier and see the results!
+
+(Neighbours are elements that are directly next to or above or diagonal with the current element in check)
